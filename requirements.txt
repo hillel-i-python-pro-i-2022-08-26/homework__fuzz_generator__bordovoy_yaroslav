@@ -1,0 +1,12 @@
+# Pre-commit hook.
+pre-commit==2.21.0
+# Upgrade syntax.
+pyupgrade==3.3.1
+# Formatter.
+black==22.12.0
+# Check codestyle
+flake8==6.0.0
+
+
+# Used to get command line arguments and run program via console.
+argparse==1.4.0
